@@ -1,0 +1,7 @@
+{
+  "name": "NutriSnap",
+  "description": "AI-powered food diary with a modern purple theme for effortless nutrition tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
